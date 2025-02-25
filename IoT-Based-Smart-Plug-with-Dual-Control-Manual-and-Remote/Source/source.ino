@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL31hwotTyR"
-#define BLYNK_TEMPLATE_NAME "Smart Plug"
-#define BLYNK_AUTH_TOKEN "r5Y0B5MmJrgxykWAJkHZSKnNlu5CtHIX"
+#define BLYNK_TEMPLATE_ID "***********"
+#define BLYNK_TEMPLATE_NAME "*********"
+#define BLYNK_AUTH_TOKEN "************"
 
 // Include libraries
 #include <ESP8266WiFi.h>
@@ -9,11 +9,11 @@
 #define BLYNK_PRINT Serial
 
 // Your WiFi credentials
-char ssid[] = "ACD"; // Enter your WiFi Name
-char pass[] = "pass1234"; // Enter your WiFi Password
+char ssid[] = "********"; // Enter your WiFi Name
+char pass[] = "********"; // Enter your WiFi Password
 
 // Blynk Authentication Token from the Blynk app
-char auth[] = "r5Y0B5MmJrgxykWAJkHZSKnNlu5CtHIX";
+char auth[] = "********************";
 
 // Pin Definitions
 const int relayPin = D1;         // Relay connected to GPIO 5 (D1 on NodeMCU)
