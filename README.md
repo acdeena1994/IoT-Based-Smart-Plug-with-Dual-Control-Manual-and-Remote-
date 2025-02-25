@@ -4,7 +4,10 @@ This project introduces an IoT-enabled smart plug that allows users to control e
 
 ## 🚀 Features & Advantages
 ✔ **Dual Control** – Manual (Two-Way Switch) & IoT (Blynk App).
+
 ✔ **Real-Time Monitoring** – View power usage and appliance status on **Blynk Dashboard**.
+
 ✔ **Seamless Synchronization** – Whether controlled manually or via IoT, the system stays updated.
+
 ✔ **Remote Access** – Turn appliances ON/OFF from anywhere via **Blynk Cloud**.
 
